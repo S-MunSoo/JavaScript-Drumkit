@@ -1,4 +1,5 @@
 ### drumkit(드럼만들기)
+<img width="815" alt="스크린샷 2022-05-28 오후 9 22 11" src="https://user-images.githubusercontent.com/102017296/170825493-e7b557b1-12a5-461d-ad78-6a15b061a429.png">
 
 #### 구현 로직
 
